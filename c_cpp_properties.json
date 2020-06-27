@@ -6,14 +6,13 @@
         {
             "name": "Win32",
             "includePath": [
-                "f:/ESP32Working/WAVIN-AHC-9000-Floor-Heating---Home-assistant-compatible-homekit-master/include",
-                "f:/ESP32Working/WAVIN-AHC-9000-Floor-Heating---Home-assistant-compatible-homekit-master/src",
+                
                 "C:/Users/dyrvi/.platformio/lib/Ticker/src",
                 "C:/Users/dyrvi/.platformio/lib/PubSubClientTools_ID4213",
-                "f:/ESP32Working/WAVIN-AHC-9000-Floor-Heating---Home-assistant-compatible-homekit-master/.pio/libdeps/nodemcu-32s/ESP_WiFiManager_ID6915/src",
-                "C:/Users/dyrvi/.platformio/lib/ESP32WebServer/src",
+               
+                "C:/Users/dyrvi/.platformio/lib/WebServer/src",
                 "C:/Users/dyrvi/.platformio/lib/DNSServer/src",
-                "f:/ESP32Working/WAVIN-AHC-9000-Floor-Heating---Home-assistant-compatible-homekit-master/.pio/libdeps/nodemcu-32s/ESP_DoubleResetDetector-master/src",
+                
                 "C:/Users/dyrvi/.platformio/lib/EEPROM/src",
                 "C:/Users/dyrvi/.platformio/lib/SPIFFS/src",
                 "C:/Users/dyrvi/.platformio/lib/FS/src",
@@ -21,8 +20,7 @@
                 "C:/Users/dyrvi/.platformio/lib/ESPmDNS/src",
                 "C:/Users/dyrvi/.platformio/lib/WiFi/src",
                 "C:/Users/dyrvi/.platformio/lib/Update/src",
-                "f:/ESP32Working/WAVIN-AHC-9000-Floor-Heating---Home-assistant-compatible-homekit-master/.pio/libdeps/nodemcu-32s/ArduinoJson_ID64@6.15.1/src",
-                "f:/ESP32Working/WAVIN-AHC-9000-Floor-Heating---Home-assistant-compatible-homekit-master/.pio/libdeps/nodemcu-32s/PubSubClient_ID89/src",
+               
                 "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                 "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                 "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -81,15 +79,15 @@
                 "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/fb_gfx",
                 "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                 "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/variants/nodemcu-32s",
-                "f:/ESP32Working/WAVIN-AHC-9000-Floor-Heating---Home-assistant-compatible-homekit-master/.pio/libdeps/nodemcu-32s/ArduinoJson_ID64/src",
+                
                 "C:/Users/dyrvi/.platformio/lib/AsyncUDP/src",
                 "C:/Users/dyrvi/.platformio/lib/AzureIoT/src",
                 "C:/Users/dyrvi/.platformio/lib/BLE/src",
                 "C:/Users/dyrvi/.platformio/lib/BluetoothSerial/src",
                 "C:/Users/dyrvi/.platformio/lib/ESP-WebOTA-master/src",
                 "C:/Users/dyrvi/.platformio/lib/ESP32/src",
-                "C:/Users/dyrvi/.platformio/lib/ESP32WebServer_ID2007/src",
-                "C:/Users/dyrvi/.platformio/lib/Esp32WifiManager_ID6309",
+
+               
                 "C:/Users/dyrvi/.platformio/lib/FFat/src",
                 "C:/Users/dyrvi/.platformio/lib/HTTPClient/src",
                 "C:/Users/dyrvi/.platformio/lib/HTTPUpdate/src",
@@ -109,7 +107,7 @@
                 "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/libraries/DNSServer/src",
                 "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/libraries/EEPROM/src",
                 "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/libraries/ESP32/src",
-                "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/libraries/ESP32WebServer/src",
+               
                 "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/libraries/ESPmDNS/src",
                 "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/libraries/FFat/src",
                 "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/libraries/FS/src",
@@ -133,14 +131,13 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "f:/ESP32Working/WAVIN-AHC-9000-Floor-Heating---Home-assistant-compatible-homekit-master/include",
-                    "f:/ESP32Working/WAVIN-AHC-9000-Floor-Heating---Home-assistant-compatible-homekit-master/src",
+                    
                     "C:/Users/dyrvi/.platformio/lib/Ticker/src",
                     "C:/Users/dyrvi/.platformio/lib/PubSubClientTools_ID4213",
-                    "f:/ESP32Working/WAVIN-AHC-9000-Floor-Heating---Home-assistant-compatible-homekit-master/.pio/libdeps/nodemcu-32s/ESP_WiFiManager_ID6915/src",
-                    "C:/Users/dyrvi/.platformio/lib/ESP32WebServer/src",
+                    
+                    "C:/Users/dyrvi/.platformio/lib/WebServer/src",
                     "C:/Users/dyrvi/.platformio/lib/DNSServer/src",
-                    "f:/ESP32Working/WAVIN-AHC-9000-Floor-Heating---Home-assistant-compatible-homekit-master/.pio/libdeps/nodemcu-32s/ESP_DoubleResetDetector-master/src",
+                   
                     "C:/Users/dyrvi/.platformio/lib/EEPROM/src",
                     "C:/Users/dyrvi/.platformio/lib/SPIFFS/src",
                     "C:/Users/dyrvi/.platformio/lib/FS/src",
@@ -148,8 +145,7 @@
                     "C:/Users/dyrvi/.platformio/lib/ESPmDNS/src",
                     "C:/Users/dyrvi/.platformio/lib/WiFi/src",
                     "C:/Users/dyrvi/.platformio/lib/Update/src",
-                    "f:/ESP32Working/WAVIN-AHC-9000-Floor-Heating---Home-assistant-compatible-homekit-master/.pio/libdeps/nodemcu-32s/ArduinoJson_ID64@6.15.1/src",
-                    "f:/ESP32Working/WAVIN-AHC-9000-Floor-Heating---Home-assistant-compatible-homekit-master/.pio/libdeps/nodemcu-32s/PubSubClient_ID89/src",
+                   
                     "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                     "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                     "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -208,15 +204,15 @@
                     "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/fb_gfx",
                     "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                     "C:/Users/dyrvi/.platformio/packages/framework-arduinoespressif32/variants/nodemcu-32s",
-                    "f:/ESP32Working/WAVIN-AHC-9000-Floor-Heating---Home-assistant-compatible-homekit-master/.pio/libdeps/nodemcu-32s/ArduinoJson_ID64/src",
+                    
                     "C:/Users/dyrvi/.platformio/lib/AsyncUDP/src",
                     "C:/Users/dyrvi/.platformio/lib/AzureIoT/src",
                     "C:/Users/dyrvi/.platformio/lib/BLE/src",
                     "C:/Users/dyrvi/.platformio/lib/BluetoothSerial/src",
                     "C:/Users/dyrvi/.platformio/lib/ESP-WebOTA-master/src",
                     "C:/Users/dyrvi/.platformio/lib/ESP32/src",
-                    "C:/Users/dyrvi/.platformio/lib/ESP32WebServer_ID2007/src",
-                    "C:/Users/dyrvi/.platformio/lib/Esp32WifiManager_ID6309",
+                  
+                   
                     "C:/Users/dyrvi/.platformio/lib/FFat/src",
                     "C:/Users/dyrvi/.platformio/lib/HTTPClient/src",
                     "C:/Users/dyrvi/.platformio/lib/HTTPUpdate/src",
